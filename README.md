@@ -4,7 +4,7 @@
 </p>
 
 <a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="auto" alt="GIF" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHNsMm8xYnY1NGcxaGgyejJyMmcxcmZ3dmsxd2F1cmE3eHA4Y3ZjMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9V8XupByJ0qDREax1x/giphy.webp>
+  <img align="right" top="500" height="300" width="auto" alt="GIF" src=https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHNsMm8xYnY1NGcxaGgyejJyMmcxcmZ3dmsxd2F1cmE3eHA4Y3ZjMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9V8XupByJ0qDREax1x/giphy.webp
 </a>
 
 <!--
