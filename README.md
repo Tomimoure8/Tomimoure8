@@ -3,13 +3,6 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Full+Stack+Web+Developer+&hearts;++;Communication+Sciences+Student+at+UBA+&hearts;++;Front-End+Developer,;Computer+Science+Student,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3&pause=1000">
 </a>
-
-
-<a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="auto" alt="GIF" src=https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZm91Y3YyaDZhbzNwZml5ejk3aTJvZHMxb3ppaHBwdWFjaDdvYzV1ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lRRQfR8mahlzvHnSgw/giphy.webp
-</a>
-
-
 <!--
 **Tomimoure8/Tomimoure8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
