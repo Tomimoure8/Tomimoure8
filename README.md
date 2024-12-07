@@ -33,4 +33,11 @@
 </p>
 <br>
 
- ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
+<br>
+<div align="center"  class="icons-social" style="margin-left: 10px;">
+        <a style="margin-left: 5px;"  target="_blank" href="https://www.linkedin.com/in/tomimoure8/">
+			<img src="https://github.com/user-attachments/assets/393ddd64-b956-4686-afe8-1f66ac3009bd"></a>
+        <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/tomas.moure/">
+		<img src="https://github.com/user-attachments/assets/5fffe465-2b78-4e6d-8e18-52d0cf2a569b" >  </a>
+      </div> 
