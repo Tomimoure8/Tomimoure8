@@ -13,7 +13,7 @@
 <br><br>
 
 - :school: Student of `Communication Sciences` at [UBA](https://www.uba.ar/).
-- :student: `Full Stack Web Developer` (Diploma from [Coderhouse](https://www.coderhouse.com/ar/).
+- :student: `Full Stack Web Developer` (Diploma from [Coderhouse](https://www.coderhouse.com/ar/)).
 - :trophy: 2x `ACPC` Finalist.
 - :technologist: I love using Software as a solution for every `Problem`.
 - :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`.
