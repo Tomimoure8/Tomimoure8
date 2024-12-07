@@ -24,6 +24,6 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,css,html,js,bootstrap,github,react" />
+    <img src="https://skillicons.dev/icons?i=git,css,html,js,bootstrap,github,react,figma&theme=light" />
   </a>
 </p>
