@@ -6,7 +6,7 @@
 
 <br><br>
 
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="30" height="30" style="margin-right: 10px;"></picture> About me
 
 <picture> <img align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXA5d256czd4YTk0bzJ5eTllYzJ1YmJ6bTk0eTlyaTB3aW8weDg3NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Yfl7CS7vQqnebA69aH/giphy.webp" width = 250px></picture>
 
@@ -23,7 +23,7 @@
 <br>
 
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30" height="30" style="margin-right: 10px;"><b> Skills</b>
 <br>
 
 <p align="center">
@@ -31,3 +31,6 @@
     <img src="https://skillicons.dev/icons?i=git,css,html,js,bootstrap,github,react," />
   </a>
 </p>
+<br>
+
+ ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
