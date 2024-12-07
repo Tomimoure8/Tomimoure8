@@ -8,7 +8,7 @@
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+<picture> <img align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXA5d256czd4YTk0bzJ5eTllYzJ1YmJ6bTk0eTlyaTB3aW8weDg3NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Yfl7CS7vQqnebA69aH/giphy.webp" width = 250px></picture>
 
 <br><br>
 
