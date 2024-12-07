@@ -12,14 +12,14 @@
 
 <br><br>
 
-- :school: Student of `Communication Sciences` at [UBA](https://www.uba.ar/).
-- :student: `Full Stack Web Developer` (Diploma from [CODERHOUSE](https://www.coderhouse.com/ar/)).
-- :trophy: **.
-- :technologist: **.
-- :computer: Looking for job opportunities as a `Front End Developer`.
-- :nerd_face: I practice coding `every day`, as evidenced by my daily contributions on GitHub.
-- :thinking: **.
-- :boom: **.
+- :school: Student of `Communication Sciences` at [UBA](https://www.uba.ar/)
+- :student: `Full Stack Web Developer` (Diploma from [CODERHOUSE](https://www.coderhouse.com/ar/))
+- :trophy: **
+- :technologist: **
+- :computer: Looking for job opportunities as a `Front End Developer`
+- :nerd_face: I practice coding `every day`, as evidenced by my daily contributions on GitHub
+- :thinking: **
+- :boom: **
 <br>
 
 
