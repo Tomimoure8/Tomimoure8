@@ -17,7 +17,7 @@
 - :trophy: **
 - :technologist: **
 - :computer: Looking for job opportunities as a `Front End Developer`
-- :nerd_face: I practice coding `every day`, as evidenced by my daily contributions on GitHub
+- :nerd_face: I practice coding `every day`.
 - :thinking: **
 - :boom: **
 <br>
