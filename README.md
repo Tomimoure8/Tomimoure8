@@ -16,7 +16,7 @@
 - :student: `Full Stack Web Developer` (Diploma from [CODERHOUSE](https://www.coderhouse.com/ar/))
 - :trophy: **
 - :technologist: **
-- :computer: Looking for job opportunities as a `Front End Developer`
+- :computer: Looking for job opportunities as a `Front End Developer` and `Back End Developer`
 - :nerd_face:**
 - :thinking: **
 - :boom: **
