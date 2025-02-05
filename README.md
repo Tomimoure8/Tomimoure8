@@ -8,9 +8,10 @@
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="30" height="30" style="margin-right: 10px;"></picture> About me
 
-<picture> <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWt5NmV4eWQyODFjN2E2OTNscTd2dTR1ejI1c3ZwNml1aXh5dnBzNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/8m7nAJTYvzNUh54HQm/giphy.gif" width = 250px></picture>
+<picture> <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWt5NmV4eWQyODFjN2E2OTNscTd2dTR1ejI1c3ZwNml1aXh5dnBzNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/pqMSyHmekA1Qe7Utp7/giphy.gif" width = 250px></picture>
 
-<!-- https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXA5d256czd4YTk0bzJ5eTllYzJ1YmJ6bTk0eTlyaTB3aW8weDg3NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Yfl7CS7vQqnebA69aH/giphy.webp --> 
+<!-- https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXA5d256czd4YTk0bzJ5eTllYzJ1YmJ6bTk0eTlyaTB3aW8weDg3NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Yfl7CS7vQqnebA69aH/giphy.webp -->
+<!-- https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWt5NmV4eWQyODFjN2E2OTNscTd2dTR1ejI1c3ZwNml1aXh5dnBzNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/8m7nAJTYvzNUh54HQm/giphy.gif --> 
 
 <br><br>
 
