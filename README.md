@@ -19,9 +19,9 @@
 
 - :school: Student of `Communication Sciences` at [UBA](https://www.uba.ar/)
 - :student: `Full Stack Web Developer` (Diploma from [CODERHOUSE](https://www.coderhouse.com/ar/))
-- :trophy: ¡Check out my QA [portfolio](https://github.com/Tomimoure8/QA-OpenCart-Abstracta)!
+- :trophy: ¡`Check out` my `QA` [portfolio](https://github.com/Tomimoure8/QA-OpenCart-Abstracta)!
 - :technologist: **
-- :computer: Looking for job opportunities as a `QA Tester Jr`
+- :computer: Looking for `job opportunities` as a `QA Tester Jr`
 - :nerd_face:**
 - :thinking: **
 - :boom: **
@@ -33,7 +33,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,py,nodejs,express,mongodb,postman,html,css,sass,bootstrap,js,react,nextjs,docker" />
+    <img src="https://skillicons.dev/icons?i=mysql,java,py,nodejs,express,mongodb,postman,html,css,sass,bootstrap,js,react,nextjs" />
   </a>
 </p>
 <br>
@@ -44,7 +44,7 @@
 
 <p align="center">
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=discord,figma,firebase,jest,md,mysql,tailwind,vercel,vite,git" />
+    <img src="https://skillicons.dev/icons?i=discord,figma,firebase,jest,md,docker,tailwind,vercel,vite,git" />
   </a>
 </p>
 <br>
