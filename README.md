@@ -18,10 +18,10 @@
 <br><br>
 
 - :school: Student of `Communication Sciences` at [UBA](https://www.uba.ar/)
+- :computer: Looking for `job opportunities` as a `QA Tester Jr`
 - :student: `Full Stack Web Developer` (Diploma from [CODERHOUSE](https://www.coderhouse.com/ar/))
 - :trophy: ¡`Check out` my `QA` [portfolio](https://github.com/Tomimoure8/QA-OpenCart-Abstracta)!
-- :technologist: **
-- :computer: Looking for `job opportunities` as a `QA Tester Jr`
+- :technologist: ¡My first `QA` [project](https://drive.google.com/drive/folders/1lzTSQymgSp8qd_rgZXJdfBFOQ5-DIbX9?usp=sharing)!
 - :nerd_face:**
 - :thinking: **
 - :boom: **
