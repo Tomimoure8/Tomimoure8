@@ -20,8 +20,8 @@
 - 🏫: Student of `Communication Sciences` at [UBA](https://www.uba.ar/)
 - 🔥: Looking for `job opportunities` as a `QA Tester Jr`
 - 👨‍🎓: `Full Stack Web Developer` (Diploma from [CODERHOUSE](https://www.coderhouse.com/ar/))
-- 🏆: ¡`Check out` my `QA` [portfolio](https://github.com/Tomimoure8/QA-OpenCart-Abstracta)!
-- 🤓: ¡My first `QA` [project](https://drive.google.com/drive/folders/1lzTSQymgSp8qd_rgZXJdfBFOQ5-DIbX9?usp=sharing)!
+- 🏆: ¡`Check out` my `QA` [PORTFOLIO](https://github.com/Tomimoure8/QA-OpenCart-Abstracta)!
+- 🤓: ¡My first `QA` [PROJECT](https://drive.google.com/drive/folders/1lzTSQymgSp8qd_rgZXJdfBFOQ5-DIbX9?usp=sharing)!
 
 <!-- - :technologist:** -->
 <!-- - :thinking: ** -->
@@ -45,7 +45,7 @@
 
 <p align="center">
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=discord,figma,firebase,jest,md,docker,tailwind,vercel,vite,git" />
+    <img src="https://skillicons.dev/icons?i=docker,discord,jest,figma,md,firebase,tailwind,vercel,vite,git" />
   </a>
 </p>
 <br>
