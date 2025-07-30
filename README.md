@@ -1,7 +1,7 @@
 <h1 align="center"><b>Hi , I'm Tomás Agustín Moure </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Full+Stack+Web+Developer+&hearts;++;Communication+Sciences+Student+at+UBA+&hearts;++;Front-End+Developer+&hearts;++;Buenos+Aires,+Argentina+&hearts;++&pause=250">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Full+Stack+Web+Developer+&hearts;++;con+mirada+a+la+calidad+&hearts;++;Communication+Sciences+Student+at+UBA+&hearts;++;QA-Tester+Jr+&hearts;++;Buenos+Aires,+Argentina+&hearts;++&pause=250">
 </a>
 
 <br><br>
@@ -21,7 +21,7 @@
 - :student: `Full Stack Web Developer` (Diploma from [CODERHOUSE](https://www.coderhouse.com/ar/))
 - :trophy: **
 - :technologist: **
-- :computer: Looking for job opportunities as a `Front End Developer` and `Back End Developer`
+- :computer: Looking for job opportunities as a `QA Tester Jr`
 - :nerd_face:**
 - :thinking: **
 - :boom: **
@@ -33,7 +33,18 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,py,nodejs,express,mongodb,postman,html,css,sass,bootstrap,js,react,nextjs,docker,discord,figma,firebase,jest,md,mysql,tailwind,vercel,vite,git," />
+    <img src="https://skillicons.dev/icons?i=java,py,nodejs,express,mongodb,postman,html,css,sass,bootstrap,js,react,nextjs,docker" />
+  </a>
+</p>
+<br>
+
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30" height="30" style="margin-right: 10px;"><b> Others</b>
+<br>
+
+<p align="center">
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=discord,figma,firebase,jest,md,mysql,tailwind,vercel,vite,git" />
   </a>
 </p>
 <br>
