@@ -1,7 +1,7 @@
 <h1 align="center"><b>Hi , I'm Tomás Agustín Moure </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=QA-Tester+Jr+&hearts;++;Full+Stack+Web+Developer+&hearts;++;con+mirada+a+la+calidad+&hearts;++;Communication+Sciences+Student+at+UBA+&hearts;++;Buenos+Aires,+Argentina+&hearts;++&pause=250">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Quality+Assurance+y+Data+&hearts;++;Testing+manual+&hearts;++;Procesos+y++Control+de+Calidad+&hearts;++;Full+Stack+Dev+con+base+QA+&hearts;++;Communication+Sciences+Student+at+UBA+&hearts;++;Buenos+Aires,+Argentina+&hearts;++&pause=250">
 </a>
 
 <br><br>
