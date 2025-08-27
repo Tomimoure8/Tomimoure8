@@ -18,10 +18,12 @@
 <br><br>
 
 - 🏫: Student of `Communication Sciences` at [UBA](https://www.uba.ar/)
-- 🔥: Looking for `job opportunities` as a `QA Tester Jr`
+- 🔥: Looking for `job opportunities` as a `QA Tester Jr` and also in `administrative roles`.
+- ☘️: Always seeking positions with `purpose` and `service`.
 - 👨‍🎓: `Full Stack Web Developer` (Diploma from [CODERHOUSE](https://www.coderhouse.com/ar/))
 - 🏆: ¡`Check out` my `QA` [PORTFOLIO](https://github.com/Tomimoure8/QA-OpenCart-Abstracta)!
 - 🤓: ¡My first `QA` [PROJECT](https://drive.google.com/drive/folders/1lzTSQymgSp8qd_rgZXJdfBFOQ5-DIbX9?usp=sharing)!
+- 📄: Coming soon → `Hands-on` project related to `insurance and policy`.
 
 <!-- - :technologist:** -->
 <!-- - :thinking: ** -->
@@ -62,4 +64,10 @@
 			<img src="https://github.com/user-attachments/assets/393ddd64-b956-4686-afe8-1f66ac3009bd" width="68" height="68"></a>
         <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/tomas.moure/">
 		<img src="https://github.com/user-attachments/assets/5fffe465-2b78-4e6d-8e18-52d0cf2a569b" width="68" height="68">  </a>
-      </div> 
+      </div>
+
+---
+<div align="center">
+	
+### 📌 Cada cuadradito verde 🟩 en mi gráfico de actividad representa un commit: un pedacito de esfuerzo, práctica o aprendizaje. Juntos cuentan mi constancia y crecimiento. 🌱💚
+
